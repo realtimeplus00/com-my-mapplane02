@@ -1,6 +1,6 @@
 {
-  "name": "비행기 레이싱2",
-  "short_name": "비행기 레이싱2",
+  "name": "세계 수도 비행기02",
+  "short_name": "세계 수도 비행기 레이",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
